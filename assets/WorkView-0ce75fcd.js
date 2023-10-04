@@ -1,0 +1,1 @@
+import{r as a,o as s,c as t,a as e,b as n,F as _}from"./index-d35bce4a.js";const r=e("div",{class:"about"},[e("h1",null,"This is a page of my work")],-1),p={__name:"WorkView",setup(c){return(l,i)=>{const o=a("img:");return s(),t(_,null,[r,e("div",null,[n(o,{src:"image"})])],64)}}};export{p as default};

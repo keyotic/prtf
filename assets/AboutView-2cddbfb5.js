@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as o}from"./index-d35bce4a.js";const n={},_={class:"about"},a=o("h1",null,"Hi, name is Keyon Van Stichel and I study Media & Information Design at LUCA Brussels. ",-1),c=[a];function i(r,d){return t(),s("div",_,c)}const u=e(n,[["render",i]]);export{u as default};
